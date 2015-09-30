@@ -1,0 +1,7 @@
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Destinations\obj\Debug\BelatrixDemo.Destinations.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Destinations\bin\Debug\BelatrixDemo.Destinations.dll
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Destinations\bin\Debug\BelatrixDemo.Destinations.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Destinations\obj\Debug\BelatrixDemo.Destinations.dll
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Destinations\obj\Debug\BelatrixDemo.Destinations.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Destinations\bin\Debug\BelatrixDemo.Library.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Destinations\bin\Debug\BelatrixDemo.Library.pdb

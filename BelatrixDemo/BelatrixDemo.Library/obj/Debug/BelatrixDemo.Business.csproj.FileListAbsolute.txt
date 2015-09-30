@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Business.dll
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Business.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\obj\Debug\BelatrixDemo.Business.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\obj\Debug\BelatrixDemo.Business.dll
+c:\users\usuario\documents\visual studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\obj\Debug\BelatrixDemo.Business.pdb

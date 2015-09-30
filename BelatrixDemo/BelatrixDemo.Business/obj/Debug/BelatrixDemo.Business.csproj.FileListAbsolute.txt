@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Business.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Business.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\obj\Debug\BelatrixDemo.Business.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\obj\Debug\BelatrixDemo.Business.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\obj\Debug\BelatrixDemo.Business.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Library.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Library.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Destinations.dll
+C:\Users\USUARIO\Documents\Visual Studio 2013\Projects\BelatrixDemo\BelatrixDemo.Business\bin\Debug\BelatrixDemo.Destinations.pdb
